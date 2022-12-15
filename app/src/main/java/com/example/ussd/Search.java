@@ -53,6 +53,7 @@ public class Search extends AppCompatActivity {
             public void onClick(View v) {
                 Intent intent=new Intent(Search.this,MainActivity.class);
                 startActivity(intent);
+                finish();
 
             }
         });

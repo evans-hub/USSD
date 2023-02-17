@@ -10,7 +10,7 @@ Here are sample screenshots showing app design and functionalities
 ![screenshot2](https://user-images.githubusercontent.com/56291063/219283593-937248fa-8da1-4e1b-a128-30d204cd791c.jpeg)
 
 # Installation
-Download apk version of the app here and run in an android phone.
+Download apk version of the app [here](https://github.com/evans-hub/USSD/blob/master/app/release/app-release.aab) and run in an android phone.
 
 Clone the app using the link https://github.com/evans-hub/USSD.git
 
